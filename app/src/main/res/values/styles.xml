@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="colorPrimary">@color/white_color</item>
+        <item name="colorPrimaryDark">@color/gray_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+<style name="CustomStyle">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:paddingEnd">@dimen/padding_end</item>
+    <item name="android:paddingStart">@dimen/padding_start</item>
+    <item name="android:background">@color/gray_100</item>
+    <item name="android:paddingTop">@dimen/padding_top_for_image</item>
+    <item name="android:paddingBottom">@dimen/padding_bottom_for_image</item>
+    <item name="android:layout_margin">@dimen/margin_allside</item>
+</style>
+</resources>

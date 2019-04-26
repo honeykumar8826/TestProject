@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"><font color="#000000">TestProject</font></string>
+    <string name="home_title">Home</string>
+    <string name="toolbar_title_second">SHOPPING BAG</string>
+    <string name="favorities">Favorites</string>
+    <string name="explore">Explore</string>
+    <string name="setting">Settings</string>
+    <string name="facebook">Facebook</string>
+    <string name="_140">$140</string>
+    <string name="facebook_messenger">Facebook Messenger</string>
+    <string name="_150">$150</string>
+    <string name="sold_out">Sold Out</string>
+    <string name="theme_red">Theme Red</string>
+    <string name="procedd_to_checkout">PROCEED TO CHEAKOUT</string>
+    <string name="item_soldout">Sorry, this item is currently sold out</string>
+    <string name="invalid">Invalid</string>
+    <string name="minus_decrease">-</string>
+    <string name="item_number">01</string>
+    <string name="item_increase">+</string>
+</resources>

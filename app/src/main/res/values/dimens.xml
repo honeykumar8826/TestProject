@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_heading">18sp</dimen>
+    <dimen name="text_heading">16sp</dimen>
+    <dimen name="text_subheading">14sp</dimen>
+    <dimen name="margin_allside">16dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="margin_end">16dp</dimen>
+    <dimen name="padding_allside">16dp</dimen>
+    <dimen name="home_space_bt_img_ll">5dp</dimen>
+    <dimen name="padding_top_for_image">22dp</dimen>
+    <dimen name="padding_bottom_for_image">22dp</dimen>
+    <dimen name="margin_start">16dp</dimen>
+    <dimen name="medium_subheading">14sp</dimen>
+    <dimen name="padding_start">16dp</dimen>
+    <dimen name="padding_end">16dp</dimen>
+    <dimen name="medium_button">18sp</dimen>
+    <dimen name="bottom_navbar_text_size">16sp</dimen>
+    <dimen name="padding_item_counterbox">2dp</dimen>
+    <dimen name="margin_start_counterbox">8dp</dimen>
+
+    <dimen name="layout_height_forimg">150dp</dimen>
+    <dimen name="item_price_size">14sp</dimen>
+    <dimen name="margin_start_forcounterbox">12dp</dimen>
+
+    <dimen name="text_small_counterbox">14sp</dimen>
+    <dimen name="view_large_size">5dp</dimen>
+    <dimen name="view_small_size">1dp</dimen>
+    <dimen name="padding_allside_solditem">2dp</dimen>
+    <dimen name="padding_top_forsolditem">18dp</dimen>
+    <dimen name="padding_bottom_forsolditem">18dp</dimen>
+    <dimen name="margin_end_counterbox">8dp</dimen>
+    <dimen name="padding_allside_foritemsoldtext">2dp</dimen>
+</resources>
